@@ -1,0 +1,15 @@
+C:\Users\vitor.merola\Documents\find_month\teste\bin\Debug\net6.0\descobre_mes.exe
+C:\Users\vitor.merola\Documents\find_month\teste\bin\Debug\net6.0\descobre_mes.deps.json
+C:\Users\vitor.merola\Documents\find_month\teste\bin\Debug\net6.0\descobre_mes.runtimeconfig.json
+C:\Users\vitor.merola\Documents\find_month\teste\bin\Debug\net6.0\descobre_mes.dll
+C:\Users\vitor.merola\Documents\find_month\teste\bin\Debug\net6.0\descobre_mes.pdb
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.csproj.AssemblyReference.cache
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.AssemblyInfoInputs.cache
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.AssemblyInfo.cs
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.csproj.CoreCompileInputs.cache
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.dll
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\refint\descobre_mes.dll
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.pdb
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\descobre_mes.genruntimeconfig.cache
+C:\Users\vitor.merola\Documents\find_month\teste\obj\Debug\net6.0\ref\descobre_mes.dll

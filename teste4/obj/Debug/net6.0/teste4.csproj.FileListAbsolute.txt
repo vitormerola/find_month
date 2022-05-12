@@ -1,0 +1,15 @@
+C:\Users\vitor.merola\source\repos\teste\teste4\bin\Debug\net6.0\teste4.exe
+C:\Users\vitor.merola\source\repos\teste\teste4\bin\Debug\net6.0\teste4.deps.json
+C:\Users\vitor.merola\source\repos\teste\teste4\bin\Debug\net6.0\teste4.runtimeconfig.json
+C:\Users\vitor.merola\source\repos\teste\teste4\bin\Debug\net6.0\teste4.dll
+C:\Users\vitor.merola\source\repos\teste\teste4\bin\Debug\net6.0\teste4.pdb
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.csproj.AssemblyReference.cache
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.AssemblyInfoInputs.cache
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.AssemblyInfo.cs
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.csproj.CoreCompileInputs.cache
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.dll
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\refint\teste4.dll
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.pdb
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\teste4.genruntimeconfig.cache
+C:\Users\vitor.merola\source\repos\teste\teste4\obj\Debug\net6.0\ref\teste4.dll
